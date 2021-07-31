@@ -1,0 +1,181 @@
+*{margin: 0; padding: 0;}
+header{
+    border-bottom:1px solid rgb(224, 224, 224)
+}
+.headerpart{
+   width: 90%;
+   margin-left: 5%;
+   overflow: hidden;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+.logo{
+   width: 20%;
+   float: left;
+}
+nav{
+    width: 50%;
+    float: right;
+    overflow: hidden;
+}
+nav ul{
+    list-style: none;
+    overflow: hidden;
+    float: right;
+}
+nav ul li{
+    float: left;
+    margin-left: 30px;
+}
+nav ul li a{
+   text-decoration: none;
+   font-size: 18px;
+   text-transform: capitalize;
+   color: black;
+   margin-top: 10px;
+}
+.main-content{
+    overflow: hidden;
+
+}
+.main-content h1{
+   text-align: center;
+   margin-top: 10px;
+   font-size: 41px;
+   color: #0C2354;
+   
+}
+.main-content h2{
+   text-align: center;
+   margin-top: 10px;
+   font-size: 30px;
+   color: #008AFF;
+}
+.main-content p{
+    text-align: center;
+    margin-top: 10px;
+}
+.image{
+    text-align: center;
+    margin-top: 10px;}
+
+ 
+ }   
+.bottom{
+    overflow: hidden;
+    margin-top:70px;
+    margin-right: 5px;
+}
+.left-bottom{
+    float: left;
+    width: 45%;
+}
+.left-bottom h1{
+    text-align: right;
+    margin-right: 10px;
+    color: #F88070;
+}
+.left-bottom p{
+    margin-left: 270px;
+    text-align: right;
+}
+.right-bottom{
+    overflow: hidden;
+    width: 45%;
+    margin-left: 10px;
+}
+.right-bottom h1{
+    float: right;
+    margin-right: 5px;
+    margin-right: 350px;
+    text-align: left;
+    margin-left: 30px;
+}
+.service{
+   width: 90%;
+   margin-left: 5%;
+   margin-top: 100px;
+   text-align: center;
+   overflow: hidden;
+}
+.service-one{
+   width: 30%;
+   float: left;
+   background-color: #FDEBED;
+   
+}
+.service-one img{
+ margin-top: 10px;
+}
+.service-one h2{
+ text-align: left;
+ margin-left: 20px;
+}
+.service-one p{
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.service-two img{
+    margin-top: 10px;
+}
+.service-two{
+width: 30%;
+float: left;
+margin-left: 5%;
+background-color: #EBF9F4;
+
+}
+.service-two h2{
+    text-align: left;
+    margin-left: 20px;
+}
+.service-two p{
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.service-three{
+width: 30%;
+float: right;
+background-color: #FFF7E8;
+
+}
+.service-three img{
+    margin-top: 10px;
+}
+.service-three h2{
+    text-align: left;
+    margin-left: 20px;
+}
+.service-three p{
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+footer{
+    background-color: #008AFF;
+    padding: 30px 0px;
+    margin-top: 40px;
+
+}
+footer p{
+    color: #F7FFFF;
+    text-align: center;
+    font-size: 18px;
+
+
+}
+footer span{
+    color: #F7FFFF;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+.bottom {
+    width: 90%;
+    margin-left: 5%;
+}
